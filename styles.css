@@ -28,3 +28,16 @@ body {
     h2 {
       color: #007BFF;
     }
+
+    .titulo {
+      text-align: center;
+      margin-bottom: 20px;
+      color: rgb(5, 5, 132);
+    }
+
+    .contenedor {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
